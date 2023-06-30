@@ -1,0 +1,4 @@
+projectSSH = projectSSH.git
+projectName = projectNameValue
+summittedBy = summittedByValue
+reviewer = reviewerValue
