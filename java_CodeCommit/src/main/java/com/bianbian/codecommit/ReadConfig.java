@@ -35,8 +35,8 @@ public class ReadConfig {
         for (String projectPath : projects) {
             CodeCommitConfigBean config = new CodeCommitConfigBean();
             config.projectName = FileUtil.pathSubEndName(projectPath);
-            config.projectMsg = getProjectMsg(projectPath + File.separator + "config.txt");
-            config.patchMsg = getPatchMsg(projectPath + File.separator + "patchMsgs.txt", projectPath);
+            config.projectMsg = getProjectMsg(projectPath + File.separator + "样例_config.txt");
+            config.patchMsg = getPatchMsg(projectPath + File.separator + "样例_patchMsgs.txt", projectPath);
             configBeans.add(config);
         }
         return configBeans;

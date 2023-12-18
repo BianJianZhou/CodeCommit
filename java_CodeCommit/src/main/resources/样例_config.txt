@@ -1,0 +1,5 @@
+ssh = https://github.com/BianJianZhou/JZEasyAndroid.git
+projectName = JZEasyAndroid
+branch = dev
+commiter = commiterValue
+reviewer = reviewer

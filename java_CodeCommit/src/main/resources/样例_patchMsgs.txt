@@ -1,0 +1,19 @@
+--itemStart--
+dtsOrAR = dtsOrAR1
+msg = msg1
+--itemEnd--
+
+--itemStart--
+dtsOrAR = dtsOrAR2
+msg = msg2
+--itemEnd--
+
+--itemStart--
+dtsOrAR = dtsOrAR3
+msg = msg3
+--itemEnd--
+
+--itemStart--
+dtsOrAR = dtsOrAR4
+msg = msg4
+--itemEnd--
