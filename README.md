@@ -32,9 +32,10 @@ java -jar bianbian_codeCommit.jar [option]
 在此目录下，会以代码仓 目录名称 内生成对应 patch 文件，和对应的提交信息
 ![image](https://github.com/BianJianZhou/CodeCommit/assets/20183236/3fee17d7-d02a-490d-baa1-82651195589d)
 其中 "commitFormatMsg.txt" 中的内容为如下
-![image](https://github.com/BianJianZhou/CodeCommit/assets/20183236/85018d6e-4fc5-4987-bcae-5f9dbcd00f78)
+![image](https://github.com/BianJianZhou/CodeCommit/assets/20183236/fdb3d089-156d-4cbd-9963-a1b9dd823c62)
 其中 “commitMsg.txt” 中内容 为 本地已 commit 未提交的 msg 信息，供查看
-![image](https://github.com/BianJianZhou/CodeCommit/assets/20183236/63f81649-f62c-4cdf-acac-f7ae7b6d1617)
+![image](https://github.com/BianJianZhou/CodeCommit/assets/20183236/fed83415-a489-4188-90ba-56e18c6e6472)
+
 
 
 # --codecommit             填写好配置信息后进行代码提交
